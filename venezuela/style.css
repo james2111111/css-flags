@@ -30,3 +30,10 @@ a {
 .blue {
     background: #0C1C8C;
 }
+
+img {
+    margin:auto ;
+    width:40%;
+    height:150px;
+    display:block;
+}
